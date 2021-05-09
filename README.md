@@ -6,14 +6,15 @@
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/MohdAzzam/basic-api-server/actions)
-- [back-end server -dev](https://azzam-basic-api.herokuapp.com/)
+- [ci/cd](https://github.com/MohdAzzam/api-server/actions)
+- [back-end server -dev](https://azzam-api-server.herokuapp.com/)
 
 ### Setup
 
 #### `.env` requirements (where applicable)
 
 - `PORT` - Port Number
+- `MONGO_URI` -the link to connect to mongo DB 
 
 #### How to initialize/run your application (where applicable)
 
